@@ -1,2 +1,0 @@
-# smooky
-SmoOky BoT
